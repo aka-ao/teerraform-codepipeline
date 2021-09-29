@@ -1,0 +1,4 @@
+# AWSのアクセスキー
+aws_access_key = "aws_access_key"
+aws_secret_key = "aws_secret_key"
+github_token   = "github_token"
