@@ -14,3 +14,6 @@
 - codedeploy.tf/codepipeline.tfファイルのコメントアウトを外す
 - terraform apply実行
   - `$ terraform apply`
+  
+# ご参考
+- https://dev.classmethod.jp/articles/ecs-deploy-with-codepipeline/
